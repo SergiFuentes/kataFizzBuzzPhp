@@ -15,7 +15,7 @@
 
 ## Run Tests
 
-- Varias Katas en esta carpeta
+- Kata FizzBuzz vacia lista para mentorias
 
 
 ### Escribe un programa que imprima los números del 1 al 100:
